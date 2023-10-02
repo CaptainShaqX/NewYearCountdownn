@@ -100,6 +100,7 @@ span.text{
     }
     .countdown{
         width: 70%;
+        column-gap:40px;
         /* width: 85vw; */
     }
     .box{
@@ -114,6 +115,7 @@ span.text{
     }
     .countdown{
         width: 90%;
+        column-gap:40px;
         /* width: 90vw;
         flex-wrap: wrap;
         gap: 30px; */
@@ -129,8 +131,10 @@ span.text{
         top: 5%; /* Adjust the top position as needed */
     }
     .countdown{
-        width: 100%;
+        margin-top:25%;
+        width: 50%;
         flex-direction: column;
+        row-gap:40px
         /* gap: 15px; */
     }
     .box{
