@@ -30,10 +30,6 @@ Welcome to the NewYearCountdown project! This is a simple web application that c
 
 If you'd like to contribute to this project, feel free to submit a pull request. Bug reports, suggestions, and feedback are also welcome.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Managed By
 Bhawesh Choudhary
 
