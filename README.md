@@ -33,6 +33,5 @@ If you'd like to contribute to this project, feel free to submit a pull request.
 ## Managed By
 Bhawesh Choudhary
 
-- Special thanks to [Your Name] for inspiration and support.
 
 Happy New Year!
